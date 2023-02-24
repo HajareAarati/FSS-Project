@@ -1,0 +1,7 @@
+13:15:24.630 [main] INFO  com.testcases.LoginTC_001 - Entered password
+13:15:25.942 [main] INFO  com.testcases.LoginTC_001 - Login successfull
+14:01:09.225 [main] INFO  com.testcases.AddAirlineTest - Entered username
+14:01:10.591 [main] INFO  com.testcases.AddAirlineTest - Entered password
+14:01:11.174 [main] INFO  com.testcases.AddAirlineTest - Login successfull
+14:16:42.931 [main] INFO  com.testcases.AddAirlineTest - Entered username
+14:16:43.991 [main] INFO  com.testcases.AddAirlineTest - Entered password
